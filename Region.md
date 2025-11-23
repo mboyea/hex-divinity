@@ -11,14 +11,15 @@ _style_: hex-divinity
 
 The region map generalizes information for the DM across the known world.
 This should make it *easy* and *fast* to reflect player actions across the world.
-Each hex tile takes players half a day to cross, or half that time with a suitable pathway (road, water) and mount (steed, boat).
 The region map is intended as a tool for the Dungeon Master, though it could be shown to players partially or in full to help communicate options or changes to the game world.
+
+Each hex tile takes half a day to cross, or half that time with a suitable pathway (road, water) and mount (steed, boat).
 
 ## Map Generation
 
 Prepare a hex map in _non-erasable ink_.
 The hex map should be *no bigger than required* to host the first game session.
-Each hex should have a label in the bottom left (in _non-erasable ink_) which serves as a coordinate.
+Write (in _non-erasable ink_) a label in the bottom left of each hex to serve as a coordinate.
 Use a centroid coordinate notation, where 0A is the center hex, 1A-1F is the surrounding 6 hex tiles, and 2A-2L is the surrounding 12 hex tiles, and so on.
 See @fig:hex-on-square-grid for an example, where it is also shown how to make a hex grid out of a standard square grid.
 
