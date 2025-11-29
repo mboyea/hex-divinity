@@ -108,23 +108,23 @@ Next, you may write a short flavor text; a poem or rumor.
 
 Then, combine the themes in pairs of two to create 6 omens, and organize them in chronological order.
 
-- **Sunrise String** In the morning sunlight, thin strands of something seem to coalesce in the shine
-- **Flowers String** Flowers bloom in excess; dancing rays of light nip at their petals
-- **Flowers Sunrise** Flowers cut down by the light, through wich singing is heard, The Dawn and its plight
-- **Flowers Sadness** A dying man is encountered; flours tattered and bloody about his corpse
-- **Sunrise Sadness** The Dawn grows desperate under the weight of inevitability; little time remains
-- **String Sadness** The Dawn confronts, bringing all the peaking sunlight from the east; unfortunate & inevitable
+> **Sunrise String** In the morning sunlight, thin strands of something seem to coalesce in the shine
+> **Flowers String** Flowers bloom in excess; dancing rays of light nip at their petals
+> **Flowers Sunrise** Flowers cut down by the light, through wich singing is heard, The Dawn and its plight
+> **Flowers Sadness** A dying man is encountered; flours tattered and bloody about his corpse
+> **Sunrise Sadness** The Dawn grows desperate under the weight of inevitability; little time remains
+> **String Sadness** The Dawn confronts, bringing all the peaking sunlight from the east; unfortunate & inevitable
 
 Lastly, provide a table (one or more) of potential relevant motives behind the myth, and complications.
 
-2d6|Motive(1d6)                      |Complication(1d6)
----|---                              |---
-1  |Longs for eternal dusk           |Longs for a real challenge
-2  |Answers a malicious prayer       |Suffers from mania
-3  |Henchman for a higher power      |Longs for beauty
-4  |Arrived for the soul of a friend |Respects the players
-5  |Corrects magical unbalance       |Wishes to tend to nature
-6  |Seeks to prevent a bleak prophecy|Seeks a new life
+|#|Motive|Complication|
+| ---:|:---:|:---:|
+|1|Longs for eternal dusk|Longs for a real challenge|
+|2|Answers a malicious prayer|Suffers from mania|
+|3|Henchman for a higher power|Longs for beauty|
+|4|Arrived for the soul of a friend|Respects the players|
+|5|Corrects magical unbalance|Wishes to tend to nature|
+|6|Seeks to prevent a bleak prophecy|Seeks a new life|
 : Myth Motives and Complications {#tbl:myth-motives-and-complications}
 
 ## Settlements are activity hubs
@@ -135,10 +135,9 @@ They can be expected to grow or shrink in response to world events, and a histor
 ### Generate settlement details
 
 The size of your settlements should have been chosen as you designed the hex map, but you may adjust their sizes on the map now, as needed.
-It is best to start small.
-Then, you can detail the bonds of the location.
+Then, you can start detailing the bonds of the city.
 
-Settlement bonds are recorded on the tile history.
+Settlement bonds are recorded as tile history.
 Entries should begin with:
 
 - Name: Give the current title of the settlement as the name of the tile; this may change later.
@@ -153,19 +152,19 @@ Relate these to the qualities of the nearby world.
 
 ## Factions
 
-Make 2-4 factions.
-Less is more.
-Write incongruencies between leaders and followers; conflict will emerge naturally.
+First, detail the values of the faction leaders.
 
-- leader motivations
-- follower motivations
+- motivation
 - obstacles
-- history...
+
+Then, detail the values of the faction followers.
+
+- motivations
+
+Write incongruencies between leaders and followers; conflict will emerge naturally.
 
 ## NPCs
 
-Create 1-6 NPCs for each faction and any additional NPCs required by a myth.
-Less is more.
 Write incongruencies into NPC values; conflict will emerge naturally.
 
 - name
@@ -188,53 +187,44 @@ Write incongruencies into NPC values; conflict will emerge naturally.
 12  |friendly  |generous   |loyal   |best possible
 : Random Consequences
 
+### Encounter
+
+2d6 |Encounter|Description
+--- |---      |---
+2   |omen     |prematurely encounter an omen
+3-5 |hazard   |
+6-8 |encounter|
+9-11|harvest  |
+12  |blessing |
+: Random Encounters
+
 ### Weather
 
 Weather is generated for each day and each night
 
 2d6 |Weather  |Examples
 --- |---      |---
-2   |disaster |furious wind, blizzard, hail, tornado, sandstorm, earthquake
+2   |disaster |furious wind, blizzard, tornado, sandstorm, earthquake, hail
 3-5 |hazardous|high wind, fog, rain, haze
 6-8 |wind     |moderate wind, billowing clouds
 9-11|clear    |scattered clouds, beaming sun
-12  |blessing |player choice
+12  |perfect  |divine blessings (player choice)
 : Random Weather
-
-### Encounter
-
-2d6 |Encounter|Description
---- |---      |---
-2   |omen     |advance an omen
-3-5 |hazard   |face a threat
-6-8 |encounter|encounter a creature, landmark, or social experience
-9-11|harvest  |chance upon harvestable flora or fauna resource
-12  |blessing |player choice
-: Random Encounters
 
 ### Loot
 
-2d6 |Hidden Valuable
+2d6 |Items
 --- |---
-2   |cursed item
+2   |
 3-5 |
-6-8 |coins, alcohol, trinket, harvest
-9-11|consumables, toolkit, instrument
-12  |magic item
+6-8 |coins, gems, art, harvest
+9-11|
+12  |
 : Random Valuables
 
 ## Session History
 
-Session history should be recorded as you play, or quickly after a session.
-Nothing more than notes about where the session goes is needed.
+A0 A1 A2 A3
 
-Session names are organized by group (letter), followed by count (number).
-Your first session, where you help players build characters and discover what kind of world they want to play in can be called A0.
-Then, A1 is the first sit-down gameplay session.
-Then A2, A3, and so on.
-If the entire party dies, or if you start another session in the same universe, write those notes as group B0, B1, and so on.
-
-Session notes should start with the name (A1) followed by the date.
-Then notes can be jotted down and numbered (1, 2, and so on).
-When the session ends, you should give it a title at the top, like an episode to a show.
+B0 B1 B2 B3
 
